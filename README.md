@@ -1,6 +1,5 @@
 # json-introduction
 Json stands for Javascript Object Notation. It is a text format most commenly used to trasnmit data in web application. 
-Tech-stack: html, css, and javascript.
 
 ### Things I learned 
 1. To fetch json from an third party api.
